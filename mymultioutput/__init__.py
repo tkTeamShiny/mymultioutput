@@ -1,1 +1,1 @@
-from . import mymultiputput02
+from . import mymultioutput02
