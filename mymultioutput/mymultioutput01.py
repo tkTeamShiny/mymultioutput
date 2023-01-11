@@ -1,3 +1,4 @@
+import numpy as np
 from sklearn.utils.validation import _check_fit_params
 from sklearn.utils.validation import check_is_fitted
 from sklearn.base import is_classifier
